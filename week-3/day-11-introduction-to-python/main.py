@@ -47,4 +47,4 @@ year_turning_30 = birth_year + 30
 
 print("Name:", name)
 print("Your age:", age)
-print("You will turn 18 in:", year_turning_18)
+print("You will turn 30 in:", year_turning_30)
